@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatheusDDChs
 - 👀 Eu estou, interessado no Front-End, começando pelo HTML5 / CSS / JavaScript. Seguindo o RoadMap https://roadmap.sh/frontend
-- 🌱 Estou atualmente estudando HTML5, formulários e validações
+- 🌱 Estou atualmente estudando HTML5, 120 horas com  certificados
 - 📫 Pode me enviar um email pelo matheusdiedrichs72@gmail.com
 - trial and error practice04>>>>>>>>>
 - Learning with Gustavo Guanabara
